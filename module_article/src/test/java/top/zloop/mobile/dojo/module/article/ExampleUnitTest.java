@@ -1,4 +1,4 @@
-package top.zloop.mobile.dojo.module;
+package top.zloop.mobile.dojo.module.article;
 
 import org.junit.Test;
 
